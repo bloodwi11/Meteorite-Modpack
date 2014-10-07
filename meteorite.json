@@ -8,22 +8,7 @@
   },
   "userFiles": {
     "include": [
-      "Config/example.cfg",
-      "options.txt"
+      "Config/*.cfg",
     ]
   }
-  "features": [
-    {
-      "properties": {
-        "name": "VoxelMap",
-        "description": "This adds a minimap ingame.",
-        "recommendation": "starred",
-        "selected": true
-      },
-      "files": {
-        "include": [
-          "mods/voxelmap-1.7.2-1.0.jar"
-        ]
-      }
-    }
 }
