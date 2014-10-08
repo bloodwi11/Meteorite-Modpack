@@ -5,6 +5,9 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+#Build Folder
+dist/
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
@@ -13,6 +16,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.bat
 
 # =========================
 # Operating System Files

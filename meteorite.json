@@ -1,29 +1,13 @@
 {
   "name":"Meteorite",
-  "title":"Meteorite (0.1a)",
+  "title":"Meteorite (0.2a)",
   "gameVersion":"1.7.10",
-  "version":"0.1a",
   "launch": {
     "flags":[]
   },
   "userFiles": {
     "include": [
-      "Config/example.cfg",
-      "options.txt"
+      "config/*.cfg"
     ]
   }
-  "features": [
-    {
-      "properties": {
-        "name": "VoxelMap",
-        "description": "This adds a minimap ingame.",
-        "recommendation": "starred",
-        "selected": true
-      },
-      "files": {
-        "include": [
-          "mods/voxelmap-1.7.2-1.0.jar"
-        ]
-      }
-    }
 }
